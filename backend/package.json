@@ -1,0 +1,29 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "speedrun project",
+  "main": "index.js",
+  "repository": "https://github.com/ChidjiretaOku/webproject.git",
+  "author": "Oku <tigran.magoyan@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "node-express-generator": "^0.0.1",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  },
+  "scripts": {
+    "hello": "node helloworld.js",
+    "start": "node App.js"
+  }
+}
