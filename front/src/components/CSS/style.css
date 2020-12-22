@@ -5,3 +5,16 @@
 .head_background{
     background-color: #F4D1E5;
 }
+
+.img_width{
+    width: 100%;
+}
+
+.vinush_img{
+    width: min-content;
+    height: 500px;
+}
+
+.bottom_margin{
+    margin-bottom: 100px;
+}

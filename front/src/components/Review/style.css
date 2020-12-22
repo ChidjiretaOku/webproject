@@ -1,9 +1,15 @@
 .review_color {
-    background-color: 	#F1ADA2;
+    background-color: #f5cbc6;
     border-radius: 4px;
 }
 
 .text_margin{
     margin-left: 5px;
     margin-bottom: 15px;
+}
+
+.review_border{
+    border-style: solid;
+    padding: 3px;
+    border-color: #dcb1ab;
 }

@@ -11,7 +11,7 @@ class Review extends Component {
         const mark = <span className="badge-warning rounded-pill text-center" style={{width: 55}}>{review.mark}/10</span>
         const username = <span className='badge-danger rounded-pill text-center'>{review.username}</span>
         return (
-            <div className="review_color">
+            <div className="review_color review_border">
                 <div>
                     Пользователь {username} поставил {mark}
                 </div>

@@ -1,40 +1,53 @@
 export default [
     {
         "id": "0",
-        "title": "caberne",
-        "text": "вкусное дорогое вино из итаили",
+        "img": "brancott.jpg",
+        "title": "Вино Brancott Estate, Marlborough Sauvignon Blanc",
+        "text": "Вино:Белое, сухое.Регион:Новая Зеландия, Мальборо. Производитель:Pernod Ricard. Бренд:Brancott Estate. Крепость 13%. Объем:0.75 л. Виноград: Совиньон Блан: 100%",
         "reviews": [{
             "id": "1",
-            "username":"user1",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "username": "Armen Armyan",
+            "text": "Всем советую. Насыщенный фруктовый аромат. Преобладание персиковых оттенков во вкусе. Лёгкое, питкое, великолепно сочетается с запечённым со шпинатом судаком с овощами.",
             "mark": "10"
         },]
     },
     {
         "id": "1",
-        "title": "gruzinskoye",
-        "text": "грузинское непонято што",
+        "img": "asti.jpg",
+        "title": "Игристое вино Asti \"Mondoro\"",
+        "text": "Итальянское игристое белое вино. 100% мускат.",
         "reviews": [{
             "id": "0",
-            "username":"user1",
-            "text": "so",
+            "username": "Иван Лопоухов",
+            "text": "а причом тут орехи??",
             "mark": "7"
         }, {
             "id": "2",
-            "username":"user2",
-            "text": "bad",
-            "mark": "3"
+            "username": "Сергей Есенин",
+            "text": "оо это зашло)))",
+            "mark": "9"
         },]
     },
     {
         "id": "2",
-        "title": "poylo",
-        "text": "вкуснее чем грузнское",
+        "img":"djan.jpg",
+        "title": "Вино \"Джан\" Гранат",
+        "text": "Красное плодовое полусладкое прямиком из Армении",
         "reviews": [{
             "id": "3",
-            "username":"user4",
-            "text": "cool",
-            "mark": "6"
+            "username": "Владимир Путин",
+            "text": "ВАЙ МАМА ДЖАН ЕС ВОНЦ ЕЙ АРАНДЗ сРА АПРУМ",
+            "mark": "10"
+        }, {
+            "id": "6",
+            "username": "Ольга Бузава",
+            "text": "После бокала вина голова покидает тело и направляется в АРМЕНИЮ",
+            "mark": "10"
+        }, {
+            "id": "7",
+            "username": "какой то армян",
+            "text": "вообще я не пробовал, НО МАМОЙ КЛЯНУСЬ ЧТО ЭТО ВКУСНЕЕ ГРУЗИНСКОГО",
+            "mark": "10"
         },]
     }
 ]

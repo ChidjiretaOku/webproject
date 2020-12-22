@@ -131,35 +131,6 @@ class DB{
     }
 */
 
-    // async likeQwitt(user_id, qwitt_id){
-    //     try{
-    //         let qwitt = await this.qwitt.findOne({where: {id: qwitt_id}})
-    //         qwitt.likesCount++
-    //         await qwitt.save()
-    //         console.log("Liked:\n" + qwitt)
-    //         await this.#createLikeConnection(user_id, qwitt_id)
-    //         return {qwitt: qwitt}
-    //     }
-    //     catch(e){
-    //         console.log(e)
-    //         return {error: e}
-    //     }
-    // }
-
-    // async unLikeQwitt(user_id, qwitt_id){
-    //     try{
-    //         let qwitt = await this.qwitt.findOne({where: {id: qwitt_id}})
-    //         qwitt.likesCount--
-    //         await qwitt.save()
-    //         console.log("Unliked:\n" + qwitt)
-    //         await this.#removeLikeConnection(user_id, qwitt_id)
-    //         return {qwitt: qwitt}
-    //     }
-    //     catch(e){
-    //         return {error: e}
-    //     }
-    // }
-
 
     /*      Likes Connection        */
 

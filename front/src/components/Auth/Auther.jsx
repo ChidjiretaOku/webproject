@@ -1,5 +1,3 @@
-
-
 class Auther{
     isAuth = false
 
