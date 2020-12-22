@@ -2,7 +2,6 @@ const router = require('express').Router()
 const config = require("../passport/jwtconfig")
 const jwt = require('jsonwebtoken')
 const passport = require('../passport/config')
-//const qwitt = require("../qwitt/qwitt")
 
 const multer = require("multer");
 const path = require("path");
@@ -63,28 +62,5 @@ router.get('/api/logout', function(req, res){
     res.status(200).send({message: "Logged out!"})
 });
 
-// router.post("/api/createQwitt", upload.single("image"), async (req, res) => {
-//     await qwitt("createQwitt", req, res)
-// })
-
-// router.post('/api/getLikedQwitts', async (req, res) => {
-//     await qwitt("getLikedQwitts", req, res)
-// })
-
-// router.post('/api/getUserQwitts', async (req, res) => {
-//     await qwitt("getUserQwitts", req, res)
-// })
-
-// router.post('/api/likeQwitt', async (req, res) => {
-//     await qwitt("likeQwitt", req, res)
-// })
-
-// router.post('/api/unLikeQwitt', async (req, res) => {
-//     await qwitt("unLikeQwitt", req, res)
-// })
-
-// router.get("/images/*", (req, res) => {
-//     res.sendFile(path.join(__dirname, "../qwitt/" + req.path));
-// });
 
 module.exports.router = router

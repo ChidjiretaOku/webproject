@@ -2,19 +2,8 @@ const config = require("../config/config.json").development
 const Sequelize = require('sequelize')
 const User = require('../models/user')
 //const Vinush = require("../models/vinush")
-//const LikesConnection = require("../models/likesconnection")
 
-/*class DB{
-    constructor(){
-        this.sequelize = new Sequelize(config.database, config.username, config.password, {
-            host: config.host,
-            dialect: config.dialect,
-            logging: false
-        })
-        this.user = User(this.sequelize, Sequelize)
-        this.vinush = Vinush(this.sequelize, Sequelize)
-        this.likesConnection = LikesConnection(this.sequelize, Sequelize)
-    }*/
+
 class DB{
     constructor(){
         this.sequelize = new Sequelize(config.database, config.username, config.password, {
@@ -100,81 +89,6 @@ class DB{
         return null
     }
 
-
-/*
-    /!*          Vine           *!/
-
-    async findVinushById(vinush_id){
-        return await this.vinush.findOne({where: {id: vinush_id}})
-    }
-
-    async getUsersVinushes(username){
-        return await this.vinush.findAll({where: {username: username}})
-    }
-
-    async createVinush(username, description, author, image){
-        try{
-            let vinush = await this.vinush.create({
-                username: username,
-                description: description,
-                author: author,
-                image: image,
-                reviewCount: 1
-            })
-            console.log("New Vinush:\n", vinush)
-          //  await this.#createLikeConnection(await this.getUserId(username), vinush.id)
-            return vinush
-        }
-        catch(e){
-            return {error: e}
-        }
-    }
-*/
-
-
-    /*      Likes Connection        */
-
-   /* async #createLikeConnection(user_id, qwitt_id){
-        try{
-            let likesConnection = await this.likesConnection.create({
-                user_id: user_id,
-                qwitt_id: qwitt_id
-            })
-            console.log("Connected:\n", likesConnection)
-            return {message: "Connected!"}
-        }
-        catch(e){
-            console.log(e)
-            return {error: e}
-        }
-    }
-
-    async #removeLikeConnection(user_id, qwitt_id){
-        try{
-            let likesConnection = await this.likesConnection.findOne({where: {user_id: user_id, qwitt_id: qwitt_id}})
-            let tmp = likesConnection
-            await likesConnection.destroy()
-            console.log("Removed connection:\n" + tmp)
-            return tmp
-        }
-        catch(e){
-            return {error: e}
-        }
-    }
-
-    async getLikedQwitts(username){
-        let qwitts_id = await this.likesConnection.findAll({where: {user_id: await this.getUserId(username)}})
-        let qwitts = []
-        for(let i = 0; i < qwitts_id.length; i++){
-            let q = await this.findQwittById(qwitts_id[i].qwitt_id)
-            let json = {
-                username: q.username, quote: q.quote, author: q.author,
-                image: q.image, likesCount: q.likesCount, id: q.id
-            }
-            qwitts.push(json)
-        }
-        return qwitts
-    }*/
 
 }
 

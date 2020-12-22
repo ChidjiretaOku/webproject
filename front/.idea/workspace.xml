@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0d55e233-2c55-41f3-be5d-7e7d06da20cd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Api.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Api.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auth/LoginFormTest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/LoginFormTest.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Buttons/authBtn.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/index.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/store.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/reducers/Auth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/reducers/Auth.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/reducers/buttonToggler.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/reducers/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/reducers/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/database/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/database/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/routes/api.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +58,7 @@
       <workItem from="1608578714461" duration="4380000" />
       <workItem from="1608584869906" duration="1594000" />
       <workItem from="1608591384777" duration="8000" />
-      <workItem from="1608591459723" duration="23431000" />
+      <workItem from="1608591459723" duration="24199000" />
     </task>
     <servers />
   </component>

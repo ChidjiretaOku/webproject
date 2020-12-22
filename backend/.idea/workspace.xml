@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff2f9a3c-bf96-43be-a5bb-3d73613ec1d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../front/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../front/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Api.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Api.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Auth/LoginFormTest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Auth/LoginFormTest.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Buttons/authBtn.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Navigation/index.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../front/src/components/profile/profile.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/reducers/Auth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/reducers/Auth.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/reducers/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/reducers/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +66,7 @@
       <workItem from="1608375541448" duration="36000" />
       <workItem from="1608573005084" duration="5713000" />
       <workItem from="1608585685777" duration="1171000" />
-      <workItem from="1608591396362" duration="5015000" />
+      <workItem from="1608591396362" duration="5077000" />
     </task>
     <servers />
   </component>
