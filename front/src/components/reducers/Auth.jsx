@@ -16,3 +16,10 @@ export function registerReducer(state = initialState, action) {
     }
     return state;
 }
+
+export function usernameReducer(state = '', action){
+    if (action.type === LOGIN){
+        return action.payload
+    }
+    return state;
+}

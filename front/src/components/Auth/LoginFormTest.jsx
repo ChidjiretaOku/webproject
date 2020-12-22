@@ -61,7 +61,7 @@ class LoginFormTest extends Component {
 
     handleLogin() {
         console.log('touched')
-        this.props.onLogin(this.props.logged)
+        this.props.onLogin(this.username)
     }
 
     render() {
@@ -94,7 +94,8 @@ class LoginFormTest extends Component {
 
 export default connect(
     state => ({
-        logged: state.loginReducer
+        logged: state.loginReducer,
+        username: state.usernameReducer
     }),
     dispatch => ({
         onLogin: (state) => {

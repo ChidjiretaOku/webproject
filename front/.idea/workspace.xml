@@ -2,31 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d55e233-2c55-41f3-be5d-7e7d06da20cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Api.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Auth/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/reducers/Auth.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/database/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/database/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/yarn.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auth/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Api.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Api.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Auth/LoginFormTest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/LoginFormTest.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auth/RegisterForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/RegisterForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Auther.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Auth/Auther.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/actionCreators.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Redux/actionCreators.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/types.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Redux/types.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Review/Review.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Review/Review.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Review/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Review/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Vinush/Vinush.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Vinush/Vinush.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Vinush/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Vinush/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Buttons/authBtn.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Redux/store.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/reducers/Auth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/reducers/Auth.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/reducers/buttonToggler.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/reducers/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/reducers/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vinushes/vinush_examples.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/vinushes/vinush_examples.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +65,7 @@
       <workItem from="1608578714461" duration="4380000" />
       <workItem from="1608584869906" duration="1594000" />
       <workItem from="1608591384777" duration="8000" />
-      <workItem from="1608591459723" duration="19640000" />
+      <workItem from="1608591459723" duration="23431000" />
     </task>
     <servers />
   </component>

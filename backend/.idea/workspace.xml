@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff2f9a3c-bf96-43be-a5bb-3d73613ec1d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../front/src/components/Api.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/components/Auth/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../front/src/components/reducers/Auth.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../front/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Auth/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/Api.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Api.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front/src/components/Auth/LoginFormTest.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Auth/LoginFormTest.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Auth/RegisterForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Auth/RegisterForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Auther.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Auth/Auther.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Redux/actionCreators.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Redux/actionCreators.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Redux/types.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Redux/types.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Review/Review.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Review/Review.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Review/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Review/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Vinush/Vinush.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Vinush/Vinush.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/components/Vinush/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Vinush/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/Buttons/authBtn.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/Navigation/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/profile/profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/reducers/Auth.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/reducers/Auth.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../front/src/components/reducers/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/reducers/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/src/vinushes/vinush_examples.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/vinushes/vinush_examples.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../front/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../front/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +73,7 @@
       <workItem from="1608375541448" duration="36000" />
       <workItem from="1608573005084" duration="5713000" />
       <workItem from="1608585685777" duration="1171000" />
-      <workItem from="1608591396362" duration="4410000" />
+      <workItem from="1608591396362" duration="5015000" />
     </task>
     <servers />
   </component>
